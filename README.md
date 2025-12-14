@@ -17,9 +17,9 @@
 Настроен мониторинг ресурсов основной виртуальной машины (Main VM) на домашнем NAS-сервере, используемой для хостинга Docker-контейнеров.
 
 Результат работы представлен на скриншоте:
-🖼️ ["monitoring_dashboard.png"](https://github.com/kamil1403/otus_prometheus/blob/main/screenshots/otus_prometheus_1.png)
-🖼️ ["monitoring_PSU.png"](https://github.com/kamil1403/otus_prometheus/blob/main/screenshots/otus_prometheus_2.png)
-🖼️ ["docker services.png"](https://github.com/kamil1403/otus_prometheus/blob/main/screenshots/otus_prometheus_3.png)
+🖼️ ["monitoring_dashboard.png"](https://github.com/kamil1403/otus_prometheus/blob/main/screenshots/otus_prometheus_1.png)   
+🖼️ ["monitoring_PSU.png"](https://github.com/kamil1403/otus_prometheus/blob/main/screenshots/otus_prometheus_2.png)   
+🖼️ ["docker services.png"](https://github.com/kamil1403/otus_prometheus/blob/main/screenshots/otus_prometheus_3.png)   
 
 ---
 *Стек развернут в Docker-контейнерах.*
